@@ -1,5 +1,5 @@
 # Portfolio-Website-using-Flask-and-Python
-******Author: Rahul Sonti******
+******Author: Abdul Ahad Supto******
 
 1. Create a virtual-environment so that it'll be easier for you when you finally build the website and you awant to deploy it.
 2. Install all the necessary libraries for your website. In my case, the libraries I used are: * Flask, * Gunicorn, * csv(just for my convenience), * datetime(just for my convenience)
@@ -11,5 +11,4 @@
 8. Also, the images you see in static/images are mine, please replace them with yours, and deploy the application.
 9. Finally, after developing the flask app and testing your website on local IP, use "pip  freeze > requirements.txt" on your venv to see all the libraries installed and use the .txt file on any hosting platform to install from the file instead of manually installing each library.
 10. I used "Pythonanywhere" to host my website. There are other sources like AWS, Heroku, GCP, to host your Flask web-app.
-11. Check out my website at # https://rahulsonti.pythonanywhere.com/ .
 # PEACE OUT!!!
